@@ -84,7 +84,7 @@ Ensure that all features and functionalities of app.vwo.com perform as expected 
 | Test Execution | Execute test cases & log defects | X days |
 | Reporting | Compile and share summary | X days |
 
----
+
 
 ## ✅ Entry and Exit Criteria
 
